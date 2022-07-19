@@ -2,7 +2,7 @@
 
 class LinkTel extends React.Component {
   render() {
-    return (<a href="tel:7(962)556-1234" className={this.props.className}>{this.props.children}</a>);
+    return (<a href="tel:7(962)556-1235" className={this.props.className}>{this.props.children}</a>);
   }
 }
 
